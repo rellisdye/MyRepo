@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"derivative.h": "c",
+			"hidef.h": "c"
+		}
+	}
+}
