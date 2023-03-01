@@ -1,4 +1,0 @@
-${workspaceFolder}/**
-${workspaceFolder}/Lib/Inc
-C:\Program Files (x86)\Freescale\CWS12v5.1\lib/**
-C:\Program Files (x86)\Freescale\CWS12v5.1\lib\hc12c\include/**
